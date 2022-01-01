@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # School_District_Analysis
 
 ## Overview of the school district analysis
@@ -33,4 +33,4 @@ Thomas High School remains in second place in the top 5 schools when the ninth g
 - Replacing the scores improves the passing math, passing reading, and overall p passing percentages for all spending ranges. 
 - Replacing scores improves the passing math, passing reading, and overall passing percentages for small and large schools, and decreases the percentages for medium size schools by about 1%. 
 - Scores by both charter and district schools were slightly positively affected by replacing the THS ninth grader scores. 
->>>>>>> 07740324d386064de2c55b4f422ea77a80a30e5e
+
