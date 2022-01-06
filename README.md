@@ -1,5 +1,5 @@
 
-# School_District_Analysis
+# School District Analysis
 
 ## Overview of the school district analysis
 The school board has notified us of evidence of academic dishonesty amongst ninth graders at Thomas High School. I have replaced the math and reading scores of Thomas High School ninth graders, and repeated the analysis to see how the changes have affected the overall analysis.
